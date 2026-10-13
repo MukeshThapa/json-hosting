@@ -1,4 +1,4 @@
 {
-  "allowTVAccess": True,
-  "allowSaavanSongsAccess": "True"
+  "allowTVAccess": true,
+  "allowSaavanSongsAccess": true
 }
