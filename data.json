@@ -1,4 +1,4 @@
 {
-  "allowAccess": true,
-  "message": "access allowed"
+  "allowTVAccess": True,
+  "AllowSongsAccess": "True"
 }
