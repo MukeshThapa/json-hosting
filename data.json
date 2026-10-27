@@ -1,6 +1,6 @@
 {
   "allowTVAccess": true,
   "allowSaavanSongsAccess": false,
-  "allowott":false,
+  "allowott":true,
   "rdxflix720":false
 }
